@@ -10,6 +10,7 @@ layout: default
 ---
 
 - [Next CLDR cycle begins 2023 May 31](https://docs.google.com/spreadsheets/d/1N6inI5R84UoYlRwuCNPBOAP7ri4q2CmJmh8DC5g-S6c/edit#gid=1680747936) -- v44 Start General Submission
+	- To contribute to CLDR, please [request an account via the Unicode contact form](https://corp.unicode.org/reporting/cldr-id.html) nad use the *SYR* locale for Syriac under **languages**.
 
 - [Style guide](/style-guide)
 
