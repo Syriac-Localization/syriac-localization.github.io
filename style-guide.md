@@ -123,3 +123,5 @@ We should follow the latin numbering system but should NOT follow the Arabic-Ind
       - Billion: ܒܠܝܘܢ ܒܸܠܝܘܿܢ
       - Trillion: ܬܪܠܝܘܢ ܬܪܹܠܝܘܿܢ
       - Quadrillion: ܡܠܝܪܕ ܡܸܠܝܵܪܕ
+
+[back](./)
