@@ -1,7 +1,7 @@
 ---
 title: Syriac Localization
 layout: default
----
+
 
 ## Links
 
@@ -22,3 +22,10 @@ layout: default
 - [Allowable characters](/allowable-characters)
 
 - [Old and outdated translations](/translations)
+
+
+---
+
+## People
+- [Sargis Yonan](https://github.com/SargisYonan/)
+- [Emil Soleyman-Zomalan](https://github.com/esoleyman/)
