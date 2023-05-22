@@ -3,6 +3,11 @@ title: Syriac Localization
 layout: default
 ---
 
+## Links
+
+[Survey Tool - Syriac](https://st.unicode.org/cldr-apps/v#/syr//)
+
+---
 
 ## News
 20 May 2023 -- [Join us on Matrix](https://matrix.to/#/!OyRIrJqoYCAWzNgCae:matrix.org?via=matrix.org) to discuss our next push towards localization in Syriac for CLDR cycle 44!
