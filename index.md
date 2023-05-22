@@ -1,6 +1,7 @@
 ---
 title: Syriac Localization
 layout: default
+---
 
 
 ## Links
